@@ -30,7 +30,8 @@ Resources:
       Tracing: Active
       Layers:
         # - arn:aws:lambda:us-west-2:887080169480:layer:php73:2
-        - arn:aws:lambda:us-west-2:777160072469:layer:php73:11
+        # - arn:aws:lambda:us-west-2:777160072469:layer:php73:11
+        - arn:aws:lambda:us-west-2:887080169480:layer:php71:10
       
       Environment:
         Variables:
